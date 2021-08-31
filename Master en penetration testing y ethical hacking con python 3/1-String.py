@@ -8,3 +8,5 @@ print(len(nombre)-1)
 print(nombre[0:3])
 
 print (nombre [0:5])
+
+print (nombre)
